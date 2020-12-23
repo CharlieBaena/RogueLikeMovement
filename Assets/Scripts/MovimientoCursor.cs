@@ -15,5 +15,6 @@ public class MovimientoCursor : MonoBehaviour
     void Update()
     {
         transform.position = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, 1f));
+        //print("Posicion cursor" + transform.position);
     }
 }

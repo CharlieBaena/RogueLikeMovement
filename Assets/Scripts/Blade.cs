@@ -52,7 +52,8 @@ public class Blade : MonoBehaviour
                 timePassedFromLastStrike = 0f;
                 pM.isStriking = true;
                 fatherAnimator.speed = 0f;
-                Vector3 mPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+
+
                 startVectorAngle = Camera.main.WorldToViewportPoint(transform.position) - Camera.main.ScreenToViewportPoint(Input.mousePosition);
                 inicialAngle = Mathf.Atan2(-startVectorAngle.y, -startVectorAngle.x) * Mathf.Rad2Deg;
                 isStriking = true;
@@ -74,8 +75,7 @@ public class Blade : MonoBehaviour
     {
         if (!isStriking)
         {
-            direction = Camera.main.ScreenToViewportPoint(Input.mousePosition);
-            direction = Camera.main.WorldToViewportPoint(transform.position) - (Vector3)direction;
+            direction = Camera.main.WorldToViewportPoint(transform.position) - Camera.main.ScreenToViewportPoint(Input.mousePosition);
             angle = Mathf.Atan2(-direction.y, -direction.x) * Mathf.Rad2Deg;
             transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
         }
@@ -86,45 +86,59 @@ public class Blade : MonoBehaviour
     IEnumerator bladeCourutine()
     {
 
-
-        isStriking = true;
         float timePassed = 0f;
         Vector3 startP = transform.position;
         Quaternion startPosition = Quaternion.AngleAxis(-strikeAngle + inicialAngle, Vector3.forward); 
         Quaternion targetPosition = Quaternion.AngleAxis(strikeAngle + inicialAngle, Vector3.forward);
 
-        if(targetPosition.z < startPosition.z)
+
+
+        if (startPosition.eulerAngles.z > targetPosition.eulerAngles.z) //En caso de que la rotacion tenga que pasar por 0
         {
-            var temp = startPosition;
-            startPosition = targetPosition;
-            targetPosition = temp;
-        }
+            float timeFixed1 = (strikeDuration * (360 - startPosition.eulerAngles.z)) / (strikeAngle * 2);  //Calculamos que timpo necesita cada arco
+            float timeFixed2 = strikeDuration - timeFixed1;
+            bool llegadoAlFinal = false;
+            Vector3 nextPosition;
 
-        transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
-
-        /*print("startP " + startP);
-        print("startR " + transform.rotation.eulerAngles);
-        print("targetPosition " + targetPosition.eulerAngles);
-        print("startPosition " + startPosition.eulerAngles);*/
-
-        while (timePassed < strikeDuration)
-        {
-            Vector3 nextPosition = Vector3.Lerp(startPosition.eulerAngles, targetPosition.eulerAngles, timePassed / strikeDuration);
-            /*if (targetPosition.z < startPosition.z)
+            while (timePassed < strikeDuration)
             {
-                transform.rotation = Quaternion.AngleAxis(nextPosition.z, -Vector3.forward);
-            }
-            else
-            {
+
+
+                if (!llegadoAlFinal)
+                {
+                    nextPosition = Vector3.Lerp(startPosition.eulerAngles, new Vector3(0, 0, 360), timePassed / timeFixed1);
+                }
+                else
+                {
+                    nextPosition = Vector3.Lerp(new Vector3(0, 0, 0.1f), targetPosition.eulerAngles, (timePassed-timeFixed1) / timeFixed2);
+                }
+
+                if (nextPosition.z == 360)
+                {
+                    llegadoAlFinal = true;
+                }
+
                 transform.rotation = Quaternion.AngleAxis(nextPosition.z, Vector3.forward);
-            }*/
+                transform.position = startP;
 
-            transform.rotation = Quaternion.AngleAxis(nextPosition.z, Vector3.forward);
-            transform.position = startP;
-            //print("nextPosition " + nextPosition);
 
-            yield return null;
-            timePassed += Time.deltaTime;
+                yield return null;
+                timePassed += Time.deltaTime;
+            }
+
+        }
+        else //Rotacion normal
+        {
+        
+            while (timePassed < strikeDuration)
+            {
+                Vector3 nextPosition = Vector3.Lerp(startPosition.eulerAngles, targetPosition.eulerAngles, timePassed / strikeDuration);
+                transform.rotation = Quaternion.AngleAxis(nextPosition.z, Vector3.forward);
+                transform.position = startP;
+
+                yield return null;
+                timePassed += Time.deltaTime;
+            }
         }
 
         transform.rotation = targetPosition;
@@ -145,7 +159,6 @@ public class Blade : MonoBehaviour
         fatherAnimator.speed = 1f;
         gunGO.SetActive(true);
         gameObject.SetActive(false);
-        //animator.SetBool("changeToGun", false);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

@@ -55,7 +55,6 @@ public class Shoot : MonoBehaviour
                     contenedoresBalas[currentBullets].gameObject.SetActive(false);
                     bullet = Instantiate(proyectil, spawnPoint.position, Quaternion.identity);
                     bullet.GetComponent<Proyectile>().direction = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-                    //print(Camera.main.ScreenToWorldPoint(Input.mousePosition));
                     lastShootTime = Time.time;
                     StartCoroutine(waitCourutine());
                 }
@@ -106,7 +105,6 @@ public class Shoot : MonoBehaviour
         bladeGO.SetActive(true);
         pM.isChangingForm = false;
         gameObject.SetActive(false);
-        //animator.SetBool("changeToBlade", false);
     }
 
     IEnumerator waitRecargar()

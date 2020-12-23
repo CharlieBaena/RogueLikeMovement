@@ -29,7 +29,7 @@ public class PlayerMovement : MonoBehaviour
 
     Animator animator;
     Vector2 movement;
-    Vector2 dashMovement;
+    Vector2 dashDirection;
     float timePassedFromLastDash;
     int vidas;
 
@@ -70,7 +70,7 @@ public class PlayerMovement : MonoBehaviour
                 timePassedFromLastDash = 0f;
                 animator.speed = 0f;
                 Vector3 mPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-                dashMovement = mPosition - transform.position;
+                dashDirection = mPosition - transform.position;
                 isDashing = true;
                 StartCoroutine(dashCourutine());
 
@@ -108,43 +108,29 @@ public class PlayerMovement : MonoBehaviour
 
         if (dashDuration <= 0.001f)
         {
-            transform.position += (Vector3)(dashMovement * dashDistance);
+            transform.position += (Vector3)(dashDirection.normalized * dashDistance);
             yield break;
         }
 
 
         float timePassed = 0f;
         Vector3 startPosition = transform.position;
-        Vector3 targetPosition = transform.position + dashDistance * (Vector3)dashMovement;
+        Vector3 targetPosition = transform.position + dashDistance * (Vector3)dashDirection.normalized;
 
-        //Vector3 mouseDestinatination = new Vector3(Input.mousePosition.x, Input.mousePosition.y, 5);
 
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Camera.main.ScreenToWorldPoint(Input.mousePosition)-transform.position, Mathf.Infinity, limitLayer);
-
-
-        //print("Camara position " + Camera.main.ScreenToWorldPoint(Input.mousePosition));
-        
         Debug.DrawLine(transform.position, Camera.main.ScreenToWorldPoint(Input.mousePosition), Color.yellow,10f);
 
 
         if (hit.collider != null)
         {
-            //print("Desplazamiento * vect "dashDistance * dashMovement.magnitude);
-            print(Camera.main.ScreenToWorldPoint(Input.mousePosition));
-            //print(hit.transform.gameObject.name);
-            print(hit.point);
-
-
             Vector2 distanciaImpacto = hit.point - (Vector2)transform.position;
-            //print(hit.point);
             if (distanciaImpacto.magnitude >= dashDistance)
             {
-                targetPosition = transform.position + dashDistance * (Vector3)dashMovement;
-                print("Entro");
+                targetPosition = transform.position + dashDistance * (Vector3)dashDirection.normalized;
             }
             else
             {
-                print("no entro");
                 targetPosition = hit.point;
                 targetPosition.z = -1;
 
@@ -155,7 +141,6 @@ public class PlayerMovement : MonoBehaviour
         while (timePassed < dashDuration)
         {
             Vector3 nextPosition = Vector3.Lerp(startPosition, targetPosition, timePassed / dashDuration);
-            //transform.Translate(targetPosition * Time.deltaTime);
             transform.position = nextPosition;
 
             yield return null;
@@ -163,11 +148,6 @@ public class PlayerMovement : MonoBehaviour
         }
 
         transform.position = targetPosition;
-        /*transform.position = transform.position;
-        targetPosition = transform.position;
-        transform.position = targetPosition;*/
-
-
         isDashing = false;
         animator.speed = 1f;
     }
@@ -181,7 +161,6 @@ public class PlayerMovement : MonoBehaviour
 
                 contenedoresVidas[vidas - 1].enabled = false;
                 vidas--;
-                //print(vidas);
                 if (vidas == 0)
                 {
                     isDead = true;
