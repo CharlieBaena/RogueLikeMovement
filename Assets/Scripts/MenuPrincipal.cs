@@ -18,6 +18,8 @@ public class MenuPrincipal : MonoBehaviour
 
     public void Credits()
     {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         SceneManager.LoadScene("Creditos");
     }
 
@@ -28,6 +30,8 @@ public class MenuPrincipal : MonoBehaviour
 
     public void MainMenu()
     {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         SceneManager.LoadScene("MenuPrincipal");
     }
 
