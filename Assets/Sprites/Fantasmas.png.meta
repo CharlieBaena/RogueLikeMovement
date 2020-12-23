@@ -1,0 +1,4616 @@
+fileFormatVersion: 2
+guid: dea83a90e93a5994292d5e8275b39c05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7733310837722992319
+    second: Fantasmas_0
+  - first:
+      213: -4740747915676939661
+    second: Fantasmas_1
+  - first:
+      213: 76787230463678721
+    second: Fantasmas_2
+  - first:
+      213: -1671645973033129126
+    second: Fantasmas_3
+  - first:
+      213: -1644086481383555122
+    second: Fantasmas_4
+  - first:
+      213: 8980721348750933118
+    second: Fantasmas_5
+  - first:
+      213: 3421510204421827823
+    second: Fantasmas_6
+  - first:
+      213: -1163244632113568435
+    second: Fantasmas_7
+  - first:
+      213: -2458957721987047865
+    second: Fantasmas_8
+  - first:
+      213: -1686938364505915763
+    second: Fantasmas_9
+  - first:
+      213: 5342892277612865082
+    second: Fantasmas_10
+  - first:
+      213: 59470149056537182
+    second: Fantasmas_11
+  - first:
+      213: -5015040165855511688
+    second: Fantasmas_12
+  - first:
+      213: -2426204739777677782
+    second: Fantasmas_13
+  - first:
+      213: -1988615809547282128
+    second: Fantasmas_14
+  - first:
+      213: -4235114958801189104
+    second: Fantasmas_15
+  - first:
+      213: -1571388418522244623
+    second: Fantasmas_16
+  - first:
+      213: -8478298525910676343
+    second: Fantasmas_17
+  - first:
+      213: -3308105188872946563
+    second: Fantasmas_18
+  - first:
+      213: -2635752551564986963
+    second: Fantasmas_19
+  - first:
+      213: 3336965155960892617
+    second: Fantasmas_20
+  - first:
+      213: 7064356333582585378
+    second: Fantasmas_21
+  - first:
+      213: 8607500643088689985
+    second: Fantasmas_22
+  - first:
+      213: 7692582372700933426
+    second: Fantasmas_23
+  - first:
+      213: 5141833140745179519
+    second: Fantasmas_24
+  - first:
+      213: -4889324222564614732
+    second: Fantasmas_25
+  - first:
+      213: 884827278701900815
+    second: Fantasmas_26
+  - first:
+      213: 1006923767887323548
+    second: Fantasmas_27
+  - first:
+      213: -1493851977925889121
+    second: Fantasmas_28
+  - first:
+      213: 6360723324183743067
+    second: Fantasmas_29
+  - first:
+      213: -4356755358442765571
+    second: Fantasmas_30
+  - first:
+      213: 7000705921292879074
+    second: Fantasmas_31
+  - first:
+      213: -7397347343937017067
+    second: Fantasmas_32
+  - first:
+      213: 5063959853944583915
+    second: Fantasmas_33
+  - first:
+      213: -3538766754594344362
+    second: Fantasmas_34
+  - first:
+      213: -2348244726733976995
+    second: Fantasmas_35
+  - first:
+      213: -8369323326478081446
+    second: Fantasmas_36
+  - first:
+      213: -4731886353095054909
+    second: Fantasmas_37
+  - first:
+      213: 4294489667614428317
+    second: Fantasmas_38
+  - first:
+      213: -8484872100735368051
+    second: Fantasmas_39
+  - first:
+      213: -3367831828050914344
+    second: Fantasmas_40
+  - first:
+      213: -2439428147254144100
+    second: Fantasmas_41
+  - first:
+      213: 8401166726950107520
+    second: Fantasmas_42
+  - first:
+      213: 485376530793725351
+    second: Fantasmas_43
+  - first:
+      213: 1393662312451753449
+    second: Fantasmas_44
+  - first:
+      213: -3667322388709065472
+    second: Fantasmas_45
+  - first:
+      213: -1927177957626592602
+    second: Fantasmas_46
+  - first:
+      213: -6538038772711467650
+    second: Fantasmas_47
+  - first:
+      213: -2498851550005834137
+    second: Fantasmas_48
+  - first:
+      213: 8911063991141219228
+    second: Fantasmas_49
+  - first:
+      213: 3468265252589173522
+    second: Fantasmas_50
+  - first:
+      213: -7474991313315411907
+    second: Fantasmas_51
+  - first:
+      213: 871574715439687722
+    second: Fantasmas_52
+  - first:
+      213: -3869507235413775028
+    second: Fantasmas_53
+  - first:
+      213: 2729241855788040566
+    second: Fantasmas_54
+  - first:
+      213: -7029073619802121297
+    second: Fantasmas_55
+  - first:
+      213: 8986215744899571498
+    second: Fantasmas_56
+  - first:
+      213: 3321511364346455377
+    second: Fantasmas_57
+  - first:
+      213: -5130560482466267466
+    second: Fantasmas_58
+  - first:
+      213: 1032609360714554284
+    second: Fantasmas_59
+  - first:
+      213: 8891934626732001718
+    second: Fantasmas_60
+  - first:
+      213: 6843187685693938443
+    second: Fantasmas_61
+  - first:
+      213: 7312659163638039208
+    second: Fantasmas_62
+  - first:
+      213: 3588975527906054270
+    second: Fantasmas_63
+  - first:
+      213: -299783163978711888
+    second: Fantasmas_64
+  - first:
+      213: 1738281866776371711
+    second: Fantasmas_65
+  - first:
+      213: 6884837325132953282
+    second: Fantasmas_66
+  - first:
+      213: -3127335027420682422
+    second: Fantasmas_67
+  - first:
+      213: 4946996184256335117
+    second: Fantasmas_68
+  - first:
+      213: -1791182320492548596
+    second: Fantasmas_69
+  - first:
+      213: 424991446590167923
+    second: Fantasmas_70
+  - first:
+      213: -1514698929303473672
+    second: Fantasmas_71
+  - first:
+      213: -2773133225181551418
+    second: Fantasmas_72
+  - first:
+      213: 4445310193526618774
+    second: Fantasmas_73
+  - first:
+      213: -1928014827822589821
+    second: Fantasmas_74
+  - first:
+      213: -1362340873863550587
+    second: Fantasmas_75
+  - first:
+      213: 4798823661142687610
+    second: Fantasmas_76
+  - first:
+      213: -5748284773209971451
+    second: Fantasmas_77
+  - first:
+      213: -5897630116936944017
+    second: Fantasmas_78
+  - first:
+      213: 6074455259768261532
+    second: Fantasmas_79
+  - first:
+      213: -5006727998813374
+    second: Fantasmas_80
+  - first:
+      213: -5982622100540276181
+    second: Fantasmas_81
+  - first:
+      213: -1232111593896082024
+    second: Fantasmas_82
+  - first:
+      213: -8536998918923212085
+    second: Fantasmas_83
+  - first:
+      213: 5079169869469894801
+    second: Fantasmas_84
+  - first:
+      213: 3485634185501219524
+    second: Fantasmas_85
+  - first:
+      213: 1873268476279859727
+    second: Fantasmas_86
+  - first:
+      213: -7852242486134721401
+    second: Fantasmas_87
+  - first:
+      213: -801728180518771842
+    second: Fantasmas_88
+  - first:
+      213: 3390932341389369529
+    second: Fantasmas_89
+  - first:
+      213: -611060405750399826
+    second: Fantasmas_90
+  - first:
+      213: 8294046803159654994
+    second: Fantasmas_91
+  - first:
+      213: -2089498135139676688
+    second: Fantasmas_92
+  - first:
+      213: -2646469937609917541
+    second: Fantasmas_93
+  - first:
+      213: -4730433624733405404
+    second: Fantasmas_94
+  - first:
+      213: 5151816525178181670
+    second: Fantasmas_95
+  - first:
+      213: -7942766166527858596
+    second: Fantasmas_96
+  - first:
+      213: 3601493457136844136
+    second: Fantasmas_97
+  - first:
+      213: 3709808818904924617
+    second: Fantasmas_98
+  - first:
+      213: 8113497354958307715
+    second: Fantasmas_99
+  - first:
+      213: 3893644664785185934
+    second: Fantasmas_100
+  - first:
+      213: -4706041702740675861
+    second: Fantasmas_101
+  - first:
+      213: 5485309014817374311
+    second: Fantasmas_102
+  - first:
+      213: 5635697693732639413
+    second: Fantasmas_103
+  - first:
+      213: 1167885798535297158
+    second: Fantasmas_104
+  - first:
+      213: -519001166627573579
+    second: Fantasmas_105
+  - first:
+      213: -275091564771022021
+    second: Fantasmas_106
+  - first:
+      213: -5864780262446559179
+    second: Fantasmas_107
+  - first:
+      213: 7398804413805443150
+    second: Fantasmas_108
+  - first:
+      213: 5412094084371422209
+    second: Fantasmas_109
+  - first:
+      213: 6376317029748753390
+    second: Fantasmas_110
+  - first:
+      213: 4624688304385080104
+    second: Fantasmas_111
+  - first:
+      213: -8340346352703535011
+    second: Fantasmas_112
+  - first:
+      213: 1453753142592849589
+    second: Fantasmas_113
+  - first:
+      213: 2474893790988629242
+    second: Fantasmas_114
+  - first:
+      213: -5168842708027217456
+    second: Fantasmas_115
+  - first:
+      213: -8169398030693443399
+    second: Fantasmas_116
+  - first:
+      213: -4601616423754375890
+    second: Fantasmas_117
+  - first:
+      213: 5314811554515443780
+    second: Fantasmas_118
+  - first:
+      213: 3043720780023192316
+    second: Fantasmas_119
+  - first:
+      213: 5438519100426421559
+    second: Fantasmas_120
+  - first:
+      213: 159470706067023766
+    second: Fantasmas_121
+  - first:
+      213: 414196312132466034
+    second: Fantasmas_122
+  - first:
+      213: -5456795218352221249
+    second: Fantasmas_123
+  - first:
+      213: -7317221771354703265
+    second: Fantasmas_124
+  - first:
+      213: 3943400277937580435
+    second: Fantasmas_125
+  - first:
+      213: -921770119743003883
+    second: Fantasmas_126
+  - first:
+      213: 3416809603858582363
+    second: Fantasmas_127
+  - first:
+      213: 5397864628083045439
+    second: Fantasmas_128
+  - first:
+      213: -2820984847815907561
+    second: Fantasmas_129
+  - first:
+      213: 779446626084410991
+    second: Fantasmas_130
+  - first:
+      213: 1344552142365329503
+    second: Fantasmas_131
+  - first:
+      213: -1124970511309411392
+    second: Fantasmas_132
+  - first:
+      213: 5315126247330430025
+    second: Fantasmas_133
+  - first:
+      213: -5438572185213385471
+    second: Fantasmas_134
+  - first:
+      213: -4795927347565004985
+    second: Fantasmas_135
+  - first:
+      213: -6010836624850508212
+    second: Fantasmas_136
+  - first:
+      213: 5102579397962943627
+    second: Fantasmas_137
+  - first:
+      213: 5683640404123736813
+    second: Fantasmas_138
+  - first:
+      213: 8066661275741471432
+    second: Fantasmas_139
+  - first:
+      213: -256091289201211023
+    second: Fantasmas_140
+  - first:
+      213: -2403597944012831344
+    second: Fantasmas_141
+  - first:
+      213: -650180148515877753
+    second: Fantasmas_142
+  - first:
+      213: -8931690687889366053
+    second: Fantasmas_143
+  - first:
+      213: -8262059957055624404
+    second: Fantasmas_144
+  - first:
+      213: 5518426675452880693
+    second: Fantasmas_145
+  - first:
+      213: -6722844321831682287
+    second: Fantasmas_146
+  - first:
+      213: -5743590704258535617
+    second: Fantasmas_147
+  - first:
+      213: 5372373445481660664
+    second: Fantasmas_148
+  - first:
+      213: 1789801180812200626
+    second: Fantasmas_149
+  - first:
+      213: -4583836993461851991
+    second: Fantasmas_150
+  - first:
+      213: -8506732283620162027
+    second: Fantasmas_151
+  - first:
+      213: -4561794524054485320
+    second: Fantasmas_152
+  - first:
+      213: 7707493300681850280
+    second: Fantasmas_153
+  - first:
+      213: -2428868246280526280
+    second: Fantasmas_154
+  - first:
+      213: -3557267302132356197
+    second: Fantasmas_155
+  - first:
+      213: 3912082293453398951
+    second: Fantasmas_156
+  - first:
+      213: 5206252782328218458
+    second: Fantasmas_157
+  - first:
+      213: -507435286602425061
+    second: Fantasmas_158
+  - first:
+      213: 2614189858073097283
+    second: Fantasmas_159
+  - first:
+      213: -6482772440811827723
+    second: Fantasmas_160
+  - first:
+      213: -5287783482267766589
+    second: Fantasmas_161
+  - first:
+      213: 38205596083123861
+    second: Fantasmas_162
+  - first:
+      213: -6668049835340194989
+    second: Fantasmas_163
+  - first:
+      213: 9191852079769831330
+    second: Fantasmas_164
+  - first:
+      213: 5771918575835830301
+    second: Fantasmas_165
+  - first:
+      213: -1112552630598507759
+    second: Fantasmas_166
+  - first:
+      213: -188384325916978146
+    second: Fantasmas_167
+  - first:
+      213: 120559337234162840
+    second: Fantasmas_168
+  - first:
+      213: -8456666592776095674
+    second: Fantasmas_169
+  - first:
+      213: 7295951347912309006
+    second: Fantasmas_170
+  - first:
+      213: 3620637557838627001
+    second: Fantasmas_171
+  - first:
+      213: 9154484824234394511
+    second: Fantasmas_172
+  - first:
+      213: 3156244157538700054
+    second: Fantasmas_173
+  - first:
+      213: -1605451610810345416
+    second: Fantasmas_174
+  - first:
+      213: -581578283753353448
+    second: Fantasmas_175
+  - first:
+      213: 2701157929341501041
+    second: Fantasmas_176
+  - first:
+      213: -932398020338754462
+    second: Fantasmas_177
+  - first:
+      213: -3547356662073736440
+    second: Fantasmas_178
+  - first:
+      213: -1065401839817435306
+    second: Fantasmas_179
+  - first:
+      213: 7405910663552109955
+    second: Fantasmas_180
+  - first:
+      213: 1361531884525769242
+    second: Fantasmas_181
+  - first:
+      213: 6386475230845616997
+    second: Fantasmas_182
+  - first:
+      213: -2658570960826220674
+    second: Fantasmas_183
+  - first:
+      213: 1566353335571099631
+    second: Fantasmas_184
+  - first:
+      213: 8884742685240151850
+    second: Fantasmas_185
+  - first:
+      213: -5356758857566833240
+    second: Fantasmas_186
+  - first:
+      213: -7539501220248240321
+    second: Fantasmas_187
+  - first:
+      213: 1927142842806263072
+    second: Fantasmas_188
+  - first:
+      213: 4962464246457230981
+    second: Fantasmas_189
+  - first:
+      213: 6332063330395616357
+    second: Fantasmas_190
+  - first:
+      213: -6826537752867169836
+    second: Fantasmas_191
+  - first:
+      213: -1923127463617877564
+    second: Fantasmas_192
+  - first:
+      213: -993464864087112581
+    second: Fantasmas_193
+  - first:
+      213: 2169883837456376861
+    second: Fantasmas_194
+  - first:
+      213: 2226737775118351055
+    second: Fantasmas_195
+  - first:
+      213: 7280622650757657218
+    second: Fantasmas_196
+  - first:
+      213: 1221433251383272198
+    second: Fantasmas_197
+  - first:
+      213: 6496493650980943517
+    second: Fantasmas_198
+  - first:
+      213: 3644770940099309498
+    second: Fantasmas_199
+  - first:
+      213: 8384597593014406459
+    second: Fantasmas_200
+  - first:
+      213: -8968395504585360115
+    second: Fantasmas_201
+  - first:
+      213: 7089642125894021740
+    second: Fantasmas_202
+  - first:
+      213: -5862080956819798145
+    second: Fantasmas_203
+  - first:
+      213: -2294631375699410646
+    second: Fantasmas_204
+  - first:
+      213: 3557906581231957736
+    second: Fantasmas_205
+  - first:
+      213: 3685490828941739234
+    second: Fantasmas_206
+  - first:
+      213: -7675826961928608597
+    second: Fantasmas_207
+  - first:
+      213: -3678164004529319078
+    second: Fantasmas_208
+  - first:
+      213: 4807254261274527950
+    second: Fantasmas_209
+  - first:
+      213: 2252834684465214792
+    second: Fantasmas_210
+  - first:
+      213: 3744968078076531557
+    second: Fantasmas_211
+  - first:
+      213: -5261892527825177927
+    second: Fantasmas_212
+  - first:
+      213: -9015980156693927046
+    second: Fantasmas_213
+  - first:
+      213: -7032914130439462935
+    second: Fantasmas_214
+  - first:
+      213: -7609953286464455043
+    second: Fantasmas_215
+  - first:
+      213: 6346509282515784417
+    second: Fantasmas_216
+  - first:
+      213: -5666010791513009212
+    second: Fantasmas_217
+  - first:
+      213: -6672959720529963067
+    second: Fantasmas_218
+  - first:
+      213: -3985066141684358883
+    second: Fantasmas_219
+  - first:
+      213: -7648700491974917071
+    second: Fantasmas_220
+  - first:
+      213: 9213351094057834609
+    second: Fantasmas_221
+  - first:
+      213: -3463070845560875534
+    second: Fantasmas_222
+  - first:
+      213: -2825575265587584133
+    second: Fantasmas_223
+  - first:
+      213: -4369181336711519393
+    second: Fantasmas_224
+  - first:
+      213: 6291662893967905052
+    second: Fantasmas_225
+  - first:
+      213: -5673961575368265125
+    second: Fantasmas_226
+  - first:
+      213: -8859311603205640921
+    second: Fantasmas_227
+  - first:
+      213: -8986968176292851246
+    second: Fantasmas_228
+  - first:
+      213: -2409818145338276445
+    second: Fantasmas_229
+  - first:
+      213: -3272884410482797790
+    second: Fantasmas_230
+  - first:
+      213: -2045274038544161569
+    second: Fantasmas_231
+  - first:
+      213: 7183824944094502658
+    second: Fantasmas_232
+  - first:
+      213: -9024908247451300899
+    second: Fantasmas_233
+  - first:
+      213: 4004775054404960098
+    second: Fantasmas_234
+  - first:
+      213: -6923734257282956071
+    second: Fantasmas_235
+  - first:
+      213: -1805610732416080073
+    second: Fantasmas_236
+  - first:
+      213: 3901932468424234122
+    second: Fantasmas_237
+  - first:
+      213: 6354507083262508988
+    second: Fantasmas_238
+  - first:
+      213: -5479213517833242002
+    second: Fantasmas_239
+  - first:
+      213: 8668465194358557599
+    second: Fantasmas_240
+  - first:
+      213: 6134287673458037136
+    second: Fantasmas_241
+  - first:
+      213: -2159674982177373196
+    second: Fantasmas_242
+  - first:
+      213: -217405973399075546
+    second: Fantasmas_243
+  - first:
+      213: -7181181533230326483
+    second: Fantasmas_244
+  - first:
+      213: 2718110566322928646
+    second: Fantasmas_245
+  - first:
+      213: -3943019849895230440
+    second: Fantasmas_246
+  - first:
+      213: 2690884734565659050
+    second: Fantasmas_247
+  - first:
+      213: -7258284356595076081
+    second: Fantasmas_248
+  - first:
+      213: -4162788845288741534
+    second: Fantasmas_249
+  - first:
+      213: 8475742188565922327
+    second: Fantasmas_250
+  - first:
+      213: 7625711024110545326
+    second: Fantasmas_251
+  - first:
+      213: 2380593708857669235
+    second: Fantasmas_252
+  - first:
+      213: -7481663029192828358
+    second: Fantasmas_253
+  - first:
+      213: -5677099464314629881
+    second: Fantasmas_254
+  - first:
+      213: -5707819739274645908
+    second: Fantasmas_255
+  - first:
+      213: 3791502518998644852
+    second: Fantasmas_256
+  - first:
+      213: 2612013830586800789
+    second: Fantasmas_257
+  - first:
+      213: 18088058669325731
+    second: Fantasmas_258
+  - first:
+      213: -1113041056087158023
+    second: Fantasmas_259
+  - first:
+      213: 190828878969411484
+    second: Fantasmas_260
+  - first:
+      213: -1879905508940382858
+    second: Fantasmas_261
+  - first:
+      213: 2801188356914726707
+    second: Fantasmas_262
+  - first:
+      213: -4956369233660457726
+    second: Fantasmas_263
+  - first:
+      213: 1147597966380370909
+    second: Fantasmas_264
+  - first:
+      213: -1734836775240226554
+    second: Fantasmas_265
+  - first:
+      213: 7054687222779310101
+    second: Fantasmas_266
+  - first:
+      213: 8405536693988752070
+    second: Fantasmas_267
+  - first:
+      213: 291984079522142202
+    second: Fantasmas_268
+  - first:
+      213: -4474178147258791162
+    second: Fantasmas_269
+  - first:
+      213: -4169314997824502468
+    second: Fantasmas_270
+  - first:
+      213: 5868699985310449686
+    second: Fantasmas_271
+  - first:
+      213: -6612960137840329110
+    second: Fantasmas_272
+  - first:
+      213: -9002668136512498087
+    second: Fantasmas_273
+  - first:
+      213: -8169424135653008969
+    second: Fantasmas_274
+  - first:
+      213: 2477687623909888181
+    second: Fantasmas_275
+  - first:
+      213: 3791397116580389376
+    second: Fantasmas_276
+  - first:
+      213: -8174035000865506582
+    second: Fantasmas_277
+  - first:
+      213: 476257687304519822
+    second: Fantasmas_278
+  - first:
+      213: 7139984696093649971
+    second: Fantasmas_279
+  - first:
+      213: -1536744952132643575
+    second: Fantasmas_280
+  - first:
+      213: 7957863990556495657
+    second: Fantasmas_281
+  - first:
+      213: -7844543959898138655
+    second: Fantasmas_282
+  - first:
+      213: 7691814371290411258
+    second: Fantasmas_283
+  - first:
+      213: -458140529624836373
+    second: Fantasmas_284
+  - first:
+      213: -3342184762342730978
+    second: Fantasmas_285
+  - first:
+      213: -6835816439164857932
+    second: Fantasmas_286
+  - first:
+      213: 2850320645258331539
+    second: Fantasmas_287
+  - first:
+      213: -8300854129324455358
+    second: Fantasmas_288
+  - first:
+      213: -5222251593473569209
+    second: Fantasmas_289
+  - first:
+      213: -1084405262600025396
+    second: Fantasmas_290
+  - first:
+      213: 7399246156009125862
+    second: Fantasmas_291
+  - first:
+      213: -2550282633707623444
+    second: Fantasmas_292
+  - first:
+      213: 5253681322128462722
+    second: Fantasmas_293
+  - first:
+      213: -5156835053270511124
+    second: Fantasmas_294
+  - first:
+      213: 3167688377889239361
+    second: Fantasmas_295
+  - first:
+      213: 8235432137225546026
+    second: Fantasmas_296
+  - first:
+      213: -1050574175945631129
+    second: Fantasmas_297
+  - first:
+      213: -3564335222944464039
+    second: Fantasmas_298
+  - first:
+      213: 3713379219133750958
+    second: Fantasmas_299
+  - first:
+      213: 9068859357616896911
+    second: Fantasmas_300
+  - first:
+      213: -3298455583983701568
+    second: Fantasmas_301
+  - first:
+      213: -4501578488038451115
+    second: Fantasmas_302
+  - first:
+      213: 5603919345877202666
+    second: Fantasmas_303
+  - first:
+      213: -6624760671454381084
+    second: Fantasmas_304
+  - first:
+      213: 8389061701952052491
+    second: Fantasmas_305
+  - first:
+      213: -7156052780938394094
+    second: Fantasmas_306
+  - first:
+      213: -2723726525892889065
+    second: Fantasmas_307
+  - first:
+      213: -3414122509773065332
+    second: Fantasmas_308
+  - first:
+      213: -5412809565307664135
+    second: Fantasmas_309
+  - first:
+      213: -7353152030336206677
+    second: Fantasmas_310
+  - first:
+      213: 710240677357716725
+    second: Fantasmas_311
+  - first:
+      213: -110677613591002029
+    second: Fantasmas_312
+  - first:
+      213: -3344696208156537339
+    second: Fantasmas_313
+  - first:
+      213: -4749151155278292879
+    second: Fantasmas_314
+  - first:
+      213: 5950239383432195395
+    second: Fantasmas_315
+  - first:
+      213: 7336170492998995664
+    second: Fantasmas_316
+  - first:
+      213: 2252590842322104236
+    second: Fantasmas_317
+  - first:
+      213: -2727114130840801509
+    second: Fantasmas_318
+  - first:
+      213: -1961404246660725454
+    second: Fantasmas_319
+  - first:
+      213: -744982914800056244
+    second: Fantasmas_320
+  - first:
+      213: 704648151434532140
+    second: Fantasmas_321
+  - first:
+      213: -3574076683078021750
+    second: Fantasmas_322
+  - first:
+      213: -1848013064769441892
+    second: Fantasmas_323
+  - first:
+      213: 5407140289136592608
+    second: Fantasmas_324
+  - first:
+      213: -2670819875572365043
+    second: Fantasmas_325
+  - first:
+      213: -4617584998460715211
+    second: Fantasmas_326
+  - first:
+      213: 5112152554492380836
+    second: Fantasmas_327
+  - first:
+      213: 2019022312218462464
+    second: Fantasmas_328
+  - first:
+      213: -3451449420916366553
+    second: Fantasmas_329
+  - first:
+      213: 3382106411020431681
+    second: Fantasmas_330
+  - first:
+      213: 1840673691700630007
+    second: Fantasmas_331
+  - first:
+      213: -3510678756110533081
+    second: Fantasmas_332
+  - first:
+      213: 5394315577638846487
+    second: Fantasmas_333
+  - first:
+      213: -6012692875141970116
+    second: Fantasmas_334
+  - first:
+      213: -1363512480514686802
+    second: Fantasmas_335
+  - first:
+      213: -2901567279544191503
+    second: Fantasmas_336
+  - first:
+      213: -1015945809637431808
+    second: Fantasmas_337
+  - first:
+      213: 3104186863356226827
+    second: Fantasmas_338
+  - first:
+      213: 5219847076546517229
+    second: Fantasmas_339
+  - first:
+      213: -6655552051901571658
+    second: Fantasmas_340
+  - first:
+      213: 2478241919881945621
+    second: Fantasmas_341
+  - first:
+      213: -3180678336775375947
+    second: Fantasmas_342
+  - first:
+      213: 2967878767804642368
+    second: Fantasmas_343
+  - first:
+      213: 3248778024674623885
+    second: Fantasmas_344
+  - first:
+      213: 5449609591274270523
+    second: Fantasmas_345
+  - first:
+      213: 2368710157307015228
+    second: Fantasmas_346
+  - first:
+      213: 3922168168961961548
+    second: Fantasmas_347
+  - first:
+      213: -4639854889157421527
+    second: Fantasmas_348
+  - first:
+      213: 2178229866896226286
+    second: Fantasmas_349
+  - first:
+      213: -745038268596691364
+    second: Fantasmas_350
+  - first:
+      213: -6789066141004323452
+    second: Fantasmas_351
+  - first:
+      213: 8243063998126378562
+    second: Fantasmas_352
+  - first:
+      213: 130531252069615563
+    second: Fantasmas_353
+  - first:
+      213: -285710169735997532
+    second: Fantasmas_354
+  - first:
+      213: -73234596430175180
+    second: Fantasmas_355
+  - first:
+      213: 3160951582660279259
+    second: Fantasmas_356
+  - first:
+      213: 5432631998092857237
+    second: Fantasmas_357
+  - first:
+      213: 1504868012842869805
+    second: Fantasmas_358
+  - first:
+      213: 3968154102640984681
+    second: Fantasmas_359
+  - first:
+      213: 3002477620220615918
+    second: Fantasmas_360
+  - first:
+      213: -4349141282093214636
+    second: Fantasmas_361
+  - first:
+      213: -6568394902727597922
+    second: Fantasmas_362
+  - first:
+      213: 970282571354866815
+    second: Fantasmas_363
+  - first:
+      213: -2600283373185608162
+    second: Fantasmas_364
+  - first:
+      213: -3345904326448451359
+    second: Fantasmas_365
+  - first:
+      213: 7264131624879751581
+    second: Fantasmas_366
+  - first:
+      213: -5907109827865525724
+    second: Fantasmas_367
+  - first:
+      213: -5851670218111877507
+    second: Fantasmas_368
+  - first:
+      213: 4415599783358247726
+    second: Fantasmas_369
+  - first:
+      213: 4749403005392488522
+    second: Fantasmas_370
+  - first:
+      213: 439524419410836955
+    second: Fantasmas_371
+  - first:
+      213: 5316434428082665400
+    second: Fantasmas_372
+  - first:
+      213: 5486677174825790582
+    second: Fantasmas_373
+  - first:
+      213: -918146664618815501
+    second: Fantasmas_374
+  - first:
+      213: -1004693069474003120
+    second: Fantasmas_375
+  - first:
+      213: 5896051754146390126
+    second: Fantasmas_376
+  - first:
+      213: 596959571347446042
+    second: Fantasmas_377
+  - first:
+      213: -794970695479433552
+    second: Fantasmas_378
+  - first:
+      213: 4764290869839126195
+    second: Fantasmas_379
+  - first:
+      213: 2846195822696959173
+    second: Fantasmas_380
+  - first:
+      213: 1758509362396310789
+    second: Fantasmas_381
+  - first:
+      213: -6532178926251413611
+    second: Fantasmas_382
+  - first:
+      213: 2301360223811997201
+    second: Fantasmas_383
+  - first:
+      213: 3890121343405562845
+    second: Fantasmas_384
+  - first:
+      213: -5478333061846614322
+    second: Fantasmas_385
+  - first:
+      213: 8006912181638022578
+    second: Fantasmas_386
+  - first:
+      213: -2607167742115588639
+    second: Fantasmas_387
+  - first:
+      213: -1564653374485423433
+    second: Fantasmas_388
+  - first:
+      213: -6703176711437505964
+    second: Fantasmas_389
+  - first:
+      213: 2254208225401946926
+    second: Fantasmas_390
+  - first:
+      213: -6697548210492597986
+    second: Fantasmas_391
+  - first:
+      213: -6846985638562662764
+    second: Fantasmas_392
+  - first:
+      213: 446519875197419470
+    second: Fantasmas_393
+  - first:
+      213: -9037248768173564419
+    second: Fantasmas_394
+  - first:
+      213: -1941056465099398675
+    second: Fantasmas_395
+  - first:
+      213: 3425072082826946949
+    second: Fantasmas_396
+  - first:
+      213: 219891645993946312
+    second: Fantasmas_397
+  - first:
+      213: -6840514228690322600
+    second: Fantasmas_398
+  - first:
+      213: -7266762206692084510
+    second: Fantasmas_399
+  - first:
+      213: 143397104862242934
+    second: Fantasmas_400
+  - first:
+      213: 2469692044848698334
+    second: Fantasmas_401
+  - first:
+      213: 8198201271412208409
+    second: Fantasmas_402
+  - first:
+      213: -8582762944285510687
+    second: Fantasmas_403
+  - first:
+      213: 5958865075551920689
+    second: Fantasmas_404
+  - first:
+      213: -6615997044387263849
+    second: Fantasmas_405
+  - first:
+      213: -124250213290086155
+    second: Fantasmas_406
+  - first:
+      213: -5761580672867934877
+    second: Fantasmas_407
+  - first:
+      213: -8359720871789677001
+    second: Fantasmas_408
+  - first:
+      213: -3807731909743899755
+    second: Fantasmas_409
+  - first:
+      213: -9025015507007915763
+    second: Fantasmas_410
+  - first:
+      213: 3466305907560574012
+    second: Fantasmas_411
+  - first:
+      213: 5795901291624716032
+    second: Fantasmas_412
+  - first:
+      213: -4787352604212009007
+    second: Fantasmas_413
+  - first:
+      213: -558184213531707616
+    second: Fantasmas_414
+  - first:
+      213: 3852703545230195630
+    second: Fantasmas_415
+  - first:
+      213: 2680636859200707844
+    second: Fantasmas_416
+  - first:
+      213: -2812188803292893156
+    second: Fantasmas_417
+  - first:
+      213: 130053516110945912
+    second: Fantasmas_418
+  - first:
+      213: 7335472600953450857
+    second: Fantasmas_419
+  - first:
+      213: -6632449154169985383
+    second: Fantasmas_420
+  - first:
+      213: -5776126716036423694
+    second: Fantasmas_421
+  - first:
+      213: -3996587997334845057
+    second: Fantasmas_422
+  - first:
+      213: 4322089189931620747
+    second: Fantasmas_423
+  - first:
+      213: -311974396641435775
+    second: Fantasmas_424
+  - first:
+      213: -3304434568129064561
+    second: Fantasmas_425
+  - first:
+      213: 8190278623824072984
+    second: Fantasmas_426
+  - first:
+      213: 9006870276896242627
+    second: Fantasmas_427
+  - first:
+      213: 5946553155978841040
+    second: Fantasmas_428
+  - first:
+      213: 1591877504483119072
+    second: Fantasmas_429
+  - first:
+      213: -406081443676117319
+    second: Fantasmas_430
+  - first:
+      213: 212106565344682614
+    second: Fantasmas_431
+  - first:
+      213: -7636982764656836570
+    second: Fantasmas_432
+  - first:
+      213: -3149070261059226043
+    second: Fantasmas_433
+  - first:
+      213: 3684572455465961486
+    second: Fantasmas_434
+  - first:
+      213: 7427368429627717141
+    second: Fantasmas_435
+  - first:
+      213: 4135910277244831638
+    second: Fantasmas_436
+  - first:
+      213: 2357301727251450322
+    second: Fantasmas_437
+  - first:
+      213: -6395626960189518963
+    second: Fantasmas_438
+  - first:
+      213: 9129494444647795054
+    second: Fantasmas_439
+  - first:
+      213: 3169288707064692361
+    second: Fantasmas_440
+  - first:
+      213: -3795700404439809270
+    second: Fantasmas_441
+  - first:
+      213: 2825824570241189436
+    second: Fantasmas_442
+  - first:
+      213: 5439169334194573927
+    second: Fantasmas_443
+  - first:
+      213: -4079008070549649276
+    second: Fantasmas_444
+  - first:
+      213: -6532668721518328183
+    second: Fantasmas_445
+  - first:
+      213: 5641368502992777043
+    second: Fantasmas_446
+  - first:
+      213: 2820905048971724048
+    second: Fantasmas_447
+  - first:
+      213: 3108879228479258338
+    second: Fantasmas_448
+  - first:
+      213: -4213742877151260792
+    second: Fantasmas_449
+  - first:
+      213: 155622609508640230
+    second: Fantasmas_450
+  - first:
+      213: -3617527560731181794
+    second: Fantasmas_451
+  - first:
+      213: 7327566219951391665
+    second: Fantasmas_452
+  - first:
+      213: 4377538229328218218
+    second: Fantasmas_453
+  - first:
+      213: -22360376628982690
+    second: Fantasmas_454
+  - first:
+      213: 1119529605854920836
+    second: Fantasmas_455
+  - first:
+      213: -2280527713345224373
+    second: Fantasmas_456
+  - first:
+      213: 2162166791245274671
+    second: Fantasmas_457
+  - first:
+      213: -5357472684990512821
+    second: Fantasmas_458
+  - first:
+      213: 1960976918944779068
+    second: Fantasmas_459
+  - first:
+      213: -197957265914017651
+    second: Fantasmas_460
+  - first:
+      213: 395974425548698722
+    second: Fantasmas_461
+  - first:
+      213: -7797907970287427231
+    second: Fantasmas_462
+  - first:
+      213: -8180746451724683661
+    second: Fantasmas_463
+  - first:
+      213: -4294849546930831406
+    second: Fantasmas_464
+  - first:
+      213: 320134497799255141
+    second: Fantasmas_465
+  - first:
+      213: -6793890070230177466
+    second: Fantasmas_466
+  - first:
+      213: 3830367366801653160
+    second: Fantasmas_467
+  - first:
+      213: 8631138798384573187
+    second: Fantasmas_468
+  - first:
+      213: -4001111649230035562
+    second: Fantasmas_469
+  - first:
+      213: 4777248335485776702
+    second: Fantasmas_470
+  - first:
+      213: 7478327175822109400
+    second: Fantasmas_471
+  - first:
+      213: -1018955471957214153
+    second: Fantasmas_472
+  - first:
+      213: -7251535241887251172
+    second: Fantasmas_473
+  - first:
+      213: -1039490006214069529
+    second: Fantasmas_474
+  - first:
+      213: -5817358160829063891
+    second: Fantasmas_475
+  - first:
+      213: -1523273216711149874
+    second: Fantasmas_476
+  - first:
+      213: -7696928352381290736
+    second: Fantasmas_477
+  - first:
+      213: 3404581873383272416
+    second: Fantasmas_478
+  - first:
+      213: 5042748981693494115
+    second: Fantasmas_479
+  - first:
+      213: -3992330746059352500
+    second: Fantasmas_480
+  - first:
+      213: -6412764866146586311
+    second: Fantasmas_481
+  - first:
+      213: -8035308607150905760
+    second: Fantasmas_482
+  - first:
+      213: 4636066114444190266
+    second: Fantasmas_483
+  - first:
+      213: -5597547998259741360
+    second: Fantasmas_484
+  - first:
+      213: -4634201834688409783
+    second: Fantasmas_485
+  - first:
+      213: -4266139976840663034
+    second: Fantasmas_486
+  - first:
+      213: -1033095840756828133
+    second: Fantasmas_487
+  - first:
+      213: 1396326146716279374
+    second: Fantasmas_488
+  - first:
+      213: -4845770264642706581
+    second: Fantasmas_489
+  - first:
+      213: 5823764076709760773
+    second: Fantasmas_490
+  - first:
+      213: -1088487754100541233
+    second: Fantasmas_491
+  - first:
+      213: -1743232540030171076
+    second: Fantasmas_492
+  - first:
+      213: 7189109716756517779
+    second: Fantasmas_493
+  - first:
+      213: -8275082646425248862
+    second: Fantasmas_494
+  - first:
+      213: -6618574760770682625
+    second: Fantasmas_495
+  - first:
+      213: -8656702046127203605
+    second: Fantasmas_496
+  - first:
+      213: -8752651761563080079
+    second: Fantasmas_497
+  - first:
+      213: 2447160019943804401
+    second: Fantasmas_498
+  - first:
+      213: 3971997699964314633
+    second: Fantasmas_499
+  - first:
+      213: -4410961382498252516
+    second: Fantasmas_500
+  - first:
+      213: -5511969831650908574
+    second: Fantasmas_501
+  - first:
+      213: -8109737400325330705
+    second: Fantasmas_502
+  - first:
+      213: 2833697390927604339
+    second: Fantasmas_503
+  - first:
+      213: -8666617119924759375
+    second: Fantasmas_504
+  - first:
+      213: 6285712369210567993
+    second: Fantasmas_505
+  - first:
+      213: -5114367563651724549
+    second: Fantasmas_506
+  - first:
+      213: -7851618286530277096
+    second: Fantasmas_507
+  - first:
+      213: 7563957221253591150
+    second: Fantasmas_508
+  - first:
+      213: -2829318124457331239
+    second: Fantasmas_509
+  - first:
+      213: 5144210865589534687
+    second: Fantasmas_510
+  - first:
+      213: 6626619586679209561
+    second: Fantasmas_511
+  - first:
+      213: 87290608367377701
+    second: Fantasmas_512
+  - first:
+      213: 3211419394945907997
+    second: Fantasmas_513
+  - first:
+      213: 5111409403366359354
+    second: Fantasmas_514
+  - first:
+      213: 7922824271566246737
+    second: Fantasmas_515
+  - first:
+      213: -4631811337141360140
+    second: Fantasmas_516
+  - first:
+      213: 8664647461463768271
+    second: Fantasmas_517
+  - first:
+      213: -6244253754118568880
+    second: Fantasmas_518
+  - first:
+      213: -5555455816544801316
+    second: Fantasmas_519
+  - first:
+      213: -7496444279204686868
+    second: Fantasmas_520
+  - first:
+      213: 1041237444230122004
+    second: Fantasmas_521
+  - first:
+      213: 6260942189236873039
+    second: Fantasmas_522
+  - first:
+      213: 8452156716266623572
+    second: Fantasmas_523
+  - first:
+      213: -3825328844092694340
+    second: Fantasmas_524
+  - first:
+      213: 7820832909245340769
+    second: Fantasmas_525
+  - first:
+      213: -6680008361282003576
+    second: Fantasmas_526
+  - first:
+      213: 4348709710531027916
+    second: Fantasmas_527
+  - first:
+      213: -2553422744166306734
+    second: Fantasmas_528
+  - first:
+      213: 2885984995548520326
+    second: Fantasmas_529
+  - first:
+      213: -8610586676667379954
+    second: Fantasmas_530
+  - first:
+      213: 493328613200874241
+    second: Fantasmas_531
+  - first:
+      213: -1656437741324229431
+    second: Fantasmas_532
+  - first:
+      213: -3999910467068187192
+    second: Fantasmas_533
+  - first:
+      213: -5754587229079502256
+    second: Fantasmas_534
+  - first:
+      213: 6423630772883506055
+    second: Fantasmas_535
+  - first:
+      213: 6401090604290606339
+    second: Fantasmas_536
+  - first:
+      213: -1608751082595962245
+    second: Fantasmas_537
+  - first:
+      213: -8185076727967854528
+    second: Fantasmas_538
+  - first:
+      213: 2767140792327868711
+    second: Fantasmas_539
+  - first:
+      213: -819342823380247206
+    second: Fantasmas_540
+  - first:
+      213: -3240392380961306960
+    second: Fantasmas_541
+  - first:
+      213: 7122482035167788839
+    second: Fantasmas_542
+  - first:
+      213: 122281725089915857
+    second: Fantasmas_543
+  - first:
+      213: -8109345245422587137
+    second: Fantasmas_544
+  - first:
+      213: -5217907212414269688
+    second: Fantasmas_545
+  - first:
+      213: 1475923954693638176
+    second: Fantasmas_546
+  - first:
+      213: -6260791513914898540
+    second: Fantasmas_547
+  - first:
+      213: -2233104987858350068
+    second: Fantasmas_548
+  - first:
+      213: 6943014415668807221
+    second: Fantasmas_549
+  - first:
+      213: -2553102537458052023
+    second: Fantasmas_550
+  - first:
+      213: -4268170962499841002
+    second: Fantasmas_551
+  - first:
+      213: 4203339705074202343
+    second: Fantasmas_552
+  - first:
+      213: -307256684461186202
+    second: Fantasmas_553
+  - first:
+      213: 773793307368054435
+    second: Fantasmas_554
+  - first:
+      213: 8666968623864764867
+    second: Fantasmas_555
+  - first:
+      213: 8636007658655091618
+    second: Fantasmas_556
+  - first:
+      213: 2812142775608626045
+    second: Fantasmas_557
+  - first:
+      213: 3098884660613403159
+    second: Fantasmas_558
+  - first:
+      213: -8294657046612809624
+    second: Fantasmas_559
+  - first:
+      213: -1511291954971933389
+    second: Fantasmas_560
+  - first:
+      213: 4772634879541704026
+    second: Fantasmas_561
+  - first:
+      213: -8632221741349804067
+    second: Fantasmas_562
+  - first:
+      213: 27545762503786580
+    second: Fantasmas_563
+  - first:
+      213: 9090171233689543572
+    second: Fantasmas_564
+  - first:
+      213: 5187657916398586380
+    second: Fantasmas_565
+  - first:
+      213: -6690715694007035455
+    second: Fantasmas_566
+  - first:
+      213: -4373783638838635437
+    second: Fantasmas_567
+  - first:
+      213: 4192685060434324083
+    second: Fantasmas_568
+  - first:
+      213: 1077639753122291342
+    second: Fantasmas_569
+  - first:
+      213: -7121390821338575866
+    second: Fantasmas_570
+  - first:
+      213: -5000037463053736952
+    second: Fantasmas_571
+  - first:
+      213: -2541158355714304941
+    second: Fantasmas_572
+  - first:
+      213: -3455014780054435086
+    second: Fantasmas_573
+  - first:
+      213: 1927564474013975830
+    second: Fantasmas_574
+  - first:
+      213: -1105354358600823321
+    second: Fantasmas_575
+  - first:
+      213: -3820960482373033258
+    second: Fantasmas_576
+  - first:
+      213: -2834530303286653618
+    second: Fantasmas_577
+  - first:
+      213: 3867497815720178881
+    second: Fantasmas_578
+  - first:
+      213: 3517843277868313305
+    second: Fantasmas_579
+  - first:
+      213: -3872239149329216032
+    second: Fantasmas_580
+  - first:
+      213: -5243100876471589605
+    second: Fantasmas_581
+  - first:
+      213: -1566128924663501982
+    second: Fantasmas_582
+  - first:
+      213: -7353795784590616351
+    second: Fantasmas_583
+  - first:
+      213: 3418911842206416443
+    second: Fantasmas_584
+  - first:
+      213: 7321802570393019667
+    second: Fantasmas_585
+  - first:
+      213: -8531221312456576260
+    second: Fantasmas_586
+  - first:
+      213: -2915571724461371474
+    second: Fantasmas_587
+  - first:
+      213: -4475492269262532171
+    second: Fantasmas_588
+  - first:
+      213: -8565345298102810179
+    second: Fantasmas_589
+  - first:
+      213: -7741640309636722346
+    second: Fantasmas_590
+  - first:
+      213: -5067933490912892477
+    second: Fantasmas_591
+  - first:
+      213: -7090376832686083656
+    second: Fantasmas_592
+  - first:
+      213: 2541216018750309248
+    second: Fantasmas_593
+  - first:
+      213: -2056952527925434304
+    second: Fantasmas_594
+  - first:
+      213: -2947180405165145340
+    second: Fantasmas_595
+  - first:
+      213: 2907521337416342718
+    second: Fantasmas_596
+  - first:
+      213: 7369272041788013437
+    second: Fantasmas_597
+  - first:
+      213: -4668449002788955834
+    second: Fantasmas_598
+  - first:
+      213: 8755132871310530764
+    second: Fantasmas_599
+  - first:
+      213: -3734647128121587217
+    second: Fantasmas_600
+  - first:
+      213: 5728433952787400878
+    second: Fantasmas_601
+  - first:
+      213: -5937321335025195468
+    second: Fantasmas_602
+  - first:
+      213: -3484846045440253034
+    second: Fantasmas_603
+  - first:
+      213: 4015747279204172486
+    second: Fantasmas_604
+  - first:
+      213: -4250533259100625892
+    second: Fantasmas_605
+  - first:
+      213: -2401634779154358939
+    second: Fantasmas_606
+  - first:
+      213: 1284751271708995284
+    second: Fantasmas_607
+  - first:
+      213: -4825620503745213943
+    second: Fantasmas_608
+  - first:
+      213: -5529840386946596715
+    second: Fantasmas_609
+  - first:
+      213: 4312463070134070508
+    second: Fantasmas_610
+  - first:
+      213: -4226643373439263266
+    second: Fantasmas_611
+  - first:
+      213: -3866083629966721359
+    second: Fantasmas_612
+  - first:
+      213: -5975511057567976855
+    second: Fantasmas_613
+  - first:
+      213: 5646764891484829155
+    second: Fantasmas_614
+  - first:
+      213: 4866552255860625735
+    second: Fantasmas_615
+  - first:
+      213: 7278603727583587772
+    second: Fantasmas_616
+  - first:
+      213: 2959003921126454312
+    second: Fantasmas_617
+  - first:
+      213: 6094718422514740729
+    second: Fantasmas_618
+  - first:
+      213: -1044637901480407439
+    second: Fantasmas_619
+  - first:
+      213: -1976247556931773332
+    second: Fantasmas_620
+  - first:
+      213: 3896077726595049143
+    second: Fantasmas_621
+  - first:
+      213: 2722908588671429298
+    second: Fantasmas_622
+  - first:
+      213: 5082912195331519550
+    second: Fantasmas_623
+  - first:
+      213: -2548355007621676081
+    second: Fantasmas_624
+  - first:
+      213: -5994972631698329827
+    second: Fantasmas_625
+  - first:
+      213: -2576993799992019826
+    second: Fantasmas_626
+  - first:
+      213: -584170728021402339
+    second: Fantasmas_627
+  - first:
+      213: -9065549925076671071
+    second: Fantasmas_628
+  - first:
+      213: 5557331854377397802
+    second: Fantasmas_629
+  - first:
+      213: -431920535971585283
+    second: Fantasmas_630
+  - first:
+      213: 4357479825174243272
+    second: Fantasmas_631
+  - first:
+      213: 2982444200041621185
+    second: Fantasmas_632
+  - first:
+      213: 5013073042080529740
+    second: Fantasmas_633
+  - first:
+      213: -7592817997859971757
+    second: Fantasmas_634
+  - first:
+      213: 1323226432805824327
+    second: Fantasmas_635
+  - first:
+      213: -7618246101090188552
+    second: Fantasmas_636
+  - first:
+      213: 7894447572816835197
+    second: Fantasmas_637
+  - first:
+      213: -5911972007381253777
+    second: Fantasmas_638
+  - first:
+      213: -8221021062713311704
+    second: Fantasmas_639
+  - first:
+      213: 6091676426096791859
+    second: Fantasmas_640
+  - first:
+      213: -8365253524804640022
+    second: Fantasmas_641
+  - first:
+      213: 4062276847636533063
+    second: Fantasmas_642
+  - first:
+      213: -7215352025544822567
+    second: Fantasmas_643
+  - first:
+      213: 4584149079861424914
+    second: Fantasmas_644
+  - first:
+      213: 1441660534631987185
+    second: Fantasmas_645
+  - first:
+      213: -5114026939547945025
+    second: Fantasmas_646
+  - first:
+      213: -9091261695304288871
+    second: Fantasmas_647
+  - first:
+      213: 8422430841703946461
+    second: Fantasmas_648
+  - first:
+      213: 4831929973316539397
+    second: Fantasmas_649
+  - first:
+      213: -8062600314140318183
+    second: Fantasmas_650
+  - first:
+      213: -201792284089996291
+    second: Fantasmas_651
+  - first:
+      213: 1976360135957947827
+    second: Fantasmas_652
+  - first:
+      213: -2868251686366323393
+    second: Fantasmas_653
+  - first:
+      213: -7135946092412247752
+    second: Fantasmas_654
+  - first:
+      213: 4169220263188336674
+    second: Fantasmas_655
+  - first:
+      213: 7234944068465718386
+    second: Fantasmas_656
+  - first:
+      213: -3536576462190841048
+    second: Fantasmas_657
+  - first:
+      213: -7152833409147904995
+    second: Fantasmas_658
+  - first:
+      213: 6976786733975029041
+    second: Fantasmas_659
+  - first:
+      213: -2722559451427000397
+    second: Fantasmas_660
+  - first:
+      213: 7555555034879896613
+    second: Fantasmas_661
+  - first:
+      213: -3818401536037589705
+    second: Fantasmas_662
+  - first:
+      213: 5838834297367291814
+    second: Fantasmas_663
+  - first:
+      213: 6482224061433597350
+    second: Fantasmas_664
+  - first:
+      213: 7032123031656408103
+    second: Fantasmas_665
+  - first:
+      213: 7130976594455502301
+    second: Fantasmas_666
+  - first:
+      213: 613917270071167784
+    second: Fantasmas_667
+  - first:
+      213: 1016202520419181391
+    second: Fantasmas_668
+  - first:
+      213: -6726928924452781785
+    second: Fantasmas_669
+  - first:
+      213: 7968449161111887494
+    second: Fantasmas_670
+  - first:
+      213: 4543490908690012194
+    second: Fantasmas_671
+  - first:
+      213: -504673361954614299
+    second: Fantasmas_672
+  - first:
+      213: 2295011559153897297
+    second: Fantasmas_673
+  - first:
+      213: 8516496840411718923
+    second: Fantasmas_674
+  - first:
+      213: 3259701087613986152
+    second: Fantasmas_675
+  - first:
+      213: -2326322029929504064
+    second: Fantasmas_676
+  - first:
+      213: 4463615097259477303
+    second: Fantasmas_677
+  - first:
+      213: -4642203755260695127
+    second: Fantasmas_678
+  - first:
+      213: 6470556315321642652
+    second: Fantasmas_679
+  - first:
+      213: 1860803788654580450
+    second: Fantasmas_680
+  - first:
+      213: -4669400125436914002
+    second: Fantasmas_681
+  - first:
+      213: -7735743874252843807
+    second: Fantasmas_682
+  - first:
+      213: -6747021185390160170
+    second: Fantasmas_683
+  - first:
+      213: -8448963960649749128
+    second: Fantasmas_684
+  - first:
+      213: -482830150780562360
+    second: Fantasmas_685
+  - first:
+      213: 7341702422353816539
+    second: Fantasmas_686
+  - first:
+      213: 5601501435533807141
+    second: Fantasmas_687
+  - first:
+      213: 6790519912442276125
+    second: Fantasmas_688
+  - first:
+      213: -1315360132947049175
+    second: Fantasmas_689
+  - first:
+      213: -5065989866771614894
+    second: Fantasmas_690
+  - first:
+      213: 534805983987637318
+    second: Fantasmas_691
+  - first:
+      213: 5942089238059719252
+    second: Fantasmas_692
+  - first:
+      213: -6162377100436824714
+    second: Fantasmas_693
+  - first:
+      213: 56787122529031052
+    second: Fantasmas_694
+  - first:
+      213: 7955944089359259886
+    second: Fantasmas_695
+  - first:
+      213: -2970298512791051430
+    second: Fantasmas_696
+  - first:
+      213: -7085107900051814088
+    second: Fantasmas_697
+  - first:
+      213: -3659664655117780919
+    second: Fantasmas_698
+  - first:
+      213: -1844041347317218253
+    second: Fantasmas_699
+  - first:
+      213: -4542741262613279463
+    second: Fantasmas_700
+  - first:
+      213: -7208162871238487249
+    second: Fantasmas_701
+  - first:
+      213: -1029511397893521977
+    second: Fantasmas_702
+  - first:
+      213: -7628347629103155716
+    second: Fantasmas_703
+  - first:
+      213: 84183912321412149
+    second: Fantasmas_704
+  - first:
+      213: -2776944264449762199
+    second: Fantasmas_705
+  - first:
+      213: -730412521823264719
+    second: Fantasmas_706
+  - first:
+      213: -6149276185744058966
+    second: Fantasmas_707
+  - first:
+      213: -21671773262794040
+    second: Fantasmas_708
+  - first:
+      213: 4183971565338248887
+    second: Fantasmas_709
+  - first:
+      213: 4498465498463065077
+    second: Fantasmas_710
+  - first:
+      213: -7502656904164544823
+    second: Fantasmas_711
+  - first:
+      213: -1956914420563942947
+    second: Fantasmas_712
+  - first:
+      213: -4736891156461535851
+    second: Fantasmas_713
+  - first:
+      213: 1810242112661552918
+    second: Fantasmas_714
+  - first:
+      213: -9170258776722427018
+    second: Fantasmas_715
+  - first:
+      213: 5680183123338298261
+    second: Fantasmas_716
+  - first:
+      213: -5268652560893340133
+    second: Fantasmas_717
+  - first:
+      213: -1488266710126768687
+    second: Fantasmas_718
+  - first:
+      213: -67191961608707564
+    second: Fantasmas_719
+  - first:
+      213: 3652908880661031673
+    second: Fantasmas_720
+  - first:
+      213: -4422619109396859697
+    second: Fantasmas_721
+  - first:
+      213: -4789808549812998498
+    second: Fantasmas_722
+  - first:
+      213: 874955435355590541
+    second: Fantasmas_723
+  - first:
+      213: 7061701260359551827
+    second: Fantasmas_724
+  - first:
+      213: 2567523446052295332
+    second: Fantasmas_725
+  - first:
+      213: -4464177210816132301
+    second: Fantasmas_726
+  - first:
+      213: -4658255366265309734
+    second: Fantasmas_727
+  - first:
+      213: 7715385676775698856
+    second: Fantasmas_728
+  - first:
+      213: -7259976620969061283
+    second: Fantasmas_729
+  - first:
+      213: -5975114881488608131
+    second: Fantasmas_730
+  - first:
+      213: -5299478396617021064
+    second: Fantasmas_731
+  - first:
+      213: 3092132616492589904
+    second: Fantasmas_732
+  - first:
+      213: -1870294047233330803
+    second: Fantasmas_733
+  - first:
+      213: -1817934199412095123
+    second: Fantasmas_734
+  - first:
+      213: -3995987989110543204
+    second: Fantasmas_735
+  - first:
+      213: -5208135507432870485
+    second: Fantasmas_736
+  - first:
+      213: 822926792884076700
+    second: Fantasmas_737
+  - first:
+      213: -5140863678340290752
+    second: Fantasmas_738
+  - first:
+      213: -4977935491583231293
+    second: Fantasmas_739
+  - first:
+      213: -417417471673720480
+    second: Fantasmas_740
+  - first:
+      213: 8082532603751633701
+    second: Fantasmas_741
+  - first:
+      213: -3013866922236526979
+    second: Fantasmas_742
+  - first:
+      213: 2465610324328601371
+    second: Fantasmas_743
+  - first:
+      213: -7211939294979485319
+    second: Fantasmas_744
+  - first:
+      213: 6389205142786524943
+    second: Fantasmas_745
+  - first:
+      213: 8830957568797765000
+    second: Fantasmas_746
+  - first:
+      213: 2789720286671849318
+    second: Fantasmas_747
+  - first:
+      213: -2290270368560523669
+    second: Fantasmas_748
+  - first:
+      213: 1982879099885825799
+    second: Fantasmas_749
+  - first:
+      213: -4812431700272219491
+    second: Fantasmas_750
+  - first:
+      213: -9070223338765311657
+    second: Fantasmas_751
+  - first:
+      213: -6258211779415753055
+    second: Fantasmas_752
+  - first:
+      213: -6823720513727255036
+    second: Fantasmas_753
+  - first:
+      213: 7019154149940456251
+    second: Fantasmas_754
+  - first:
+      213: 7674128362962823405
+    second: Fantasmas_755
+  - first:
+      213: -1128877980294528363
+    second: Fantasmas_756
+  - first:
+      213: -5141886140882837438
+    second: Fantasmas_757
+  - first:
+      213: 6812049902690260369
+    second: Fantasmas_758
+  - first:
+      213: 7388858674713982176
+    second: Fantasmas_759
+  - first:
+      213: -166105980464866136
+    second: Fantasmas_760
+  - first:
+      213: -2409053506638503776
+    second: Fantasmas_761
+  - first:
+      213: -386398514650487005
+    second: Fantasmas_762
+  - first:
+      213: -1662572658098414689
+    second: Fantasmas_763
+  - first:
+      213: -2149979332024294452
+    second: Fantasmas_764
+  - first:
+      213: 3672526868195855286
+    second: Fantasmas_765
+  - first:
+      213: 1666051592759423556
+    second: Fantasmas_766
+  - first:
+      213: 2017015000129930762
+    second: Fantasmas_767
+  - first:
+      213: 2830829320184057386
+    second: Fantasmas_768
+  - first:
+      213: -1110972055331268401
+    second: Fantasmas_769
+  - first:
+      213: 2308991402331122868
+    second: Fantasmas_770
+  - first:
+      213: 1794728583225545115
+    second: Fantasmas_771
+  - first:
+      213: 7191714649907387481
+    second: Fantasmas_772
+  - first:
+      213: -8945696455433855643
+    second: Fantasmas_773
+  - first:
+      213: -121619700334950210
+    second: Fantasmas_774
+  - first:
+      213: 1224066340597863716
+    second: Fantasmas_775
+  - first:
+      213: 1367319413818073805
+    second: Fantasmas_776
+  - first:
+      213: 2983405574353605630
+    second: Fantasmas_777
+  - first:
+      213: 813987557442364815
+    second: Fantasmas_778
+  - first:
+      213: 8307315733214083869
+    second: Fantasmas_779
+  - first:
+      213: 8689161265892615901
+    second: Fantasmas_780
+  - first:
+      213: -105474181779294288
+    second: Fantasmas_781
+  - first:
+      213: 7582002517495540212
+    second: Fantasmas_782
+  - first:
+      213: -505778346819394534
+    second: Fantasmas_783
+  - first:
+      213: -4898935466989529392
+    second: Fantasmas_784
+  - first:
+      213: -6253251756299654064
+    second: Fantasmas_785
+  - first:
+      213: 8307328040933626415
+    second: Fantasmas_786
+  - first:
+      213: -467071056930985662
+    second: Fantasmas_787
+  - first:
+      213: 587765072165271537
+    second: Fantasmas_788
+  - first:
+      213: 5525984417232224143
+    second: Fantasmas_789
+  - first:
+      213: 1986451701859570668
+    second: Fantasmas_790
+  - first:
+      213: -2727604174276887769
+    second: Fantasmas_791
+  - first:
+      213: 2750466584639242084
+    second: Fantasmas_792
+  - first:
+      213: -2951600633364510279
+    second: Fantasmas_793
+  - first:
+      213: 8519544410286041088
+    second: Fantasmas_794
+  - first:
+      213: 813868716723779816
+    second: Fantasmas_795
+  - first:
+      213: 4512477105731062503
+    second: Fantasmas_796
+  - first:
+      213: 632329167899287285
+    second: Fantasmas_797
+  - first:
+      213: 1767888270307854259
+    second: Fantasmas_798
+  - first:
+      213: 8543591780624133817
+    second: Fantasmas_799
+  - first:
+      213: -7928756539016280584
+    second: Fantasmas_800
+  - first:
+      213: -871777220433621223
+    second: Fantasmas_801
+  - first:
+      213: 7986414791774844993
+    second: Fantasmas_802
+  - first:
+      213: 8490085806460853654
+    second: Fantasmas_803
+  - first:
+      213: 3588597958092381322
+    second: Fantasmas_804
+  - first:
+      213: 8239274214514528978
+    second: Fantasmas_805
+  - first:
+      213: 8005314456780875818
+    second: Fantasmas_806
+  - first:
+      213: -7116642365119420147
+    second: Fantasmas_807
+  - first:
+      213: 3371504833270519424
+    second: Fantasmas_808
+  - first:
+      213: 501075309774747072
+    second: Fantasmas_809
+  - first:
+      213: -1544149007720671268
+    second: Fantasmas_810
+  - first:
+      213: -684944459262070053
+    second: Fantasmas_811
+  - first:
+      213: 4213824995428380946
+    second: Fantasmas_812
+  - first:
+      213: -6518645648802056799
+    second: Fantasmas_813
+  - first:
+      213: 7648656122320512106
+    second: Fantasmas_814
+  - first:
+      213: 2788037145671478197
+    second: Fantasmas_815
+  - first:
+      213: -4785945745821984720
+    second: Fantasmas_816
+  - first:
+      213: -3373504716689671377
+    second: Fantasmas_817
+  - first:
+      213: 2276076871899203749
+    second: Fantasmas_818
+  - first:
+      213: 2134523282557708274
+    second: Fantasmas_819
+  - first:
+      213: -7525701344727476342
+    second: Fantasmas_820
+  - first:
+      213: -4768543090482066446
+    second: Fantasmas_821
+  - first:
+      213: 7459693792698929981
+    second: Fantasmas_822
+  - first:
+      213: -4404525199162928373
+    second: Fantasmas_823
+  - first:
+      213: -5622402941328737668
+    second: Fantasmas_824
+  - first:
+      213: -5645024493327117253
+    second: Fantasmas_825
+  - first:
+      213: -1704175353265902494
+    second: Fantasmas_826
+  - first:
+      213: -4961529036107958766
+    second: Fantasmas_827
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantasmas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe482ceb3d325b60800000000000000
+      internalID: 7733310837722992319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a076463ea753eb0800000000000000
+      internalID: -4740747915676939661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d21b449dc01100800000000000000
+      internalID: 76787230463678721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5be52328de1dc8e0800000000000000
+      internalID: -1671645973033129126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf7c115e080f29e0800000000000000
+      internalID: -1644086481383555122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cf01b1c7ee1ac70800000000000000
+      internalID: 8980721348750933118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecefe92765ab7f20800000000000000
+      internalID: 3421510204421827823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45adf39b235bdfe0800000000000000
+      internalID: -1163244632113568435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e124fdaf600edd0800000000000000
+      internalID: -2458957721987047865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e75a9ce7ac698e0800000000000000
+      internalID: -1686938364505915763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ea48f734c52a40800000000000000
+      internalID: 5342892277612865082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52214519c743d000800000000000000
+      internalID: 59470149056537182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bbddb3a8ff66ab0800000000000000
+      internalID: -5015040165855511688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26be2dc4a3645ed0800000000000000
+      internalID: -2426204739777677782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039553515740764e0800000000000000
+      internalID: -1988615809547282128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01746b13269d935c0800000000000000
+      internalID: -4235114958801189104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f991d51f8e413ae0800000000000000
+      internalID: -1571388418522244623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c406f1968075a80800000000000000
+      internalID: -8478298525910676343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cf9999bdf3712d0800000000000000
+      internalID: -3308105188872946563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5b328e40deb6bd0800000000000000
+      internalID: -2635752551564986963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca7ec11284f4e20800000000000000
+      internalID: 3336965155960892617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e88f528a2a90260800000000000000
+      internalID: 7064356333582585378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b6f3bfa3cf37770800000000000000
+      internalID: 8607500643088689985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d454239ea81ca60800000000000000
+      internalID: 7692582372700933426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f719278bff57b5740800000000000000
+      internalID: 5141833140745179519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb25a3681a52cb0800000000000000
+      internalID: -4889324222564614732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f043a92d8b9874c00800000000000000
+      internalID: 884827278701900815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9162dcf4df49fd00800000000000000
+      internalID: 1006923767887323548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9376b47a85c44be0800000000000000
+      internalID: -1493851977925889121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a838ca924d54850800000000000000
+      internalID: 6360723324183743067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df24db6a512b983c0800000000000000
+      internalID: -4356755358442765571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c2afa1f0872160800000000000000
+      internalID: 7000705921292879074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b647498c7575990800000000000000
+      internalID: -7397347343937017067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6b43b38acc64640800000000000000
+      internalID: 5063959853944583915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6523179c266c3eec0800000000000000
+      internalID: -3538766754594344362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a4651dcdb596fd0800000000000000
+      internalID: -2348244726733976995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5222e2f6c03adb80800000000000000
+      internalID: -8369323326478081446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92046be66f45eb0800000000000000
+      internalID: -4731886353095054909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c4eb97997199b30800000000000000
+      internalID: 4294489667614428317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84cb0777cdaf3a80800000000000000
+      internalID: -8484872100735368051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d355c1cbce0341d0800000000000000
+      internalID: -3367831828050914344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93d3d35609652ed0800000000000000
+      internalID: -2439428147254144100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08931ba70a0f69470800000000000000
+      internalID: 8401166726950107520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad754412676cb600800000000000000
+      internalID: 485376530793725351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5498e3d78475310800000000000000
+      internalID: 1393662312451753449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db820c7bd0b1dc0800000000000000
+      internalID: -3667322388709065472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a244b0bbd94145e0800000000000000
+      internalID: -1927177957626592602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e755dc050683445a0800000000000000
+      internalID: -6538038772711467650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec77731cb425dd0800000000000000
+      internalID: -2498851550005834137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3fb2bc757aab70800000000000000
+      internalID: 8911063991141219228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b786f1fd0c12030800000000000000
+      internalID: 3468265252589173522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3844b6310f734890800000000000000
+      internalID: -7474991313315411907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28aefcf594781c00800000000000000
+      internalID: 871574715439687722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dab51cbafbc4ac0800000000000000
+      internalID: -3869507235413775028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671cf58f10730e520800000000000000
+      internalID: 2729241855788040566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab10afc8c6b37e90800000000000000
+      internalID: -7029073619802121297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fd2c5eb9375bc70800000000000000
+      internalID: 8986215744899571498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1552b4ddcf0681e20800000000000000
+      internalID: 3321511364346455377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bef0ff8c669cc8b0800000000000000
+      internalID: -5130560482466267466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab52291eb0945e00800000000000000
+      internalID: 1032609360714554284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b94b587e6f766b70800000000000000
+      internalID: 8891934626732001718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b5d1181f2e7fe50800000000000000
+      internalID: 6843187685693938443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a28624e3c8cb7560800000000000000
+      internalID: 7312659163638039208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7019683a3a9ec130800000000000000
+      internalID: 3588975527906054270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf769fcc4f6dbf0800000000000000
+      internalID: -299783163978711888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff165b4e52e9f1810800000000000000
+      internalID: 1738281866776371711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c676ecd11bdb8f50800000000000000
+      internalID: 6884837325132953282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4724f4ac597994d0800000000000000
+      internalID: -3127335027420682422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dcfcbb1d247a440800000000000000
+      internalID: 4946996184256335117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ee41b6b217427e0800000000000000
+      internalID: -1791182320492548596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b169e087fd5e500800000000000000
+      internalID: 424991446590167923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1b3395955bafae0800000000000000
+      internalID: -1514698929303473672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4683e360ad389d0800000000000000
+      internalID: -2773133225181551418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ab399911ae0bd30800000000000000
+      internalID: 4445310193526618774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388d2f9aab05e35e0800000000000000
+      internalID: -1928014827822589821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5892e56713ef71de0800000000000000
+      internalID: -1362340873863550587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f362ec1b8d89240800000000000000
+      internalID: 4798823661142687610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5056809547df930b0800000000000000
+      internalID: -5748284773209971451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66f357d7a8672ea0800000000000000
+      internalID: -5897630116936944017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b8d7affdccc4450800000000000000
+      internalID: 6074455259768261532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc42c48663eeff0800000000000000
+      internalID: -5006727998813374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2245e795e479fca0800000000000000
+      internalID: -5982622100540276181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8950f2a8809a6eee0800000000000000
+      internalID: -1232111593896082024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca20b5d6bc768980800000000000000
+      internalID: -8536998918923212085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198ce9fe516dc7640800000000000000
+      internalID: 5079169869469894801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca12c3f2d57f5030800000000000000
+      internalID: 3485634185501219524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a299111cf2ff910800000000000000
+      internalID: 1873268476279859727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b5b3df0b370390800000000000000
+      internalID: -7852242486134721401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7322c1b770bfd4f0800000000000000
+      internalID: -801728180518771842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0a5e1aff20f0f20800000000000000
+      internalID: 3390932341389369529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacf0fa6cc31587f0800000000000000
+      internalID: -611060405750399826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_91
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252abccaf9f5a1370800000000000000
+      internalID: 8294046803159654994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd8828448c9003e0800000000000000
+      internalID: -2089498135139676688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb2040d99d54bd0800000000000000
+      internalID: -2646469937609917541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_94
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa3346eaf1a5eb0800000000000000
+      internalID: -4730433624733405404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasmas_95
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6289b3b85ddee7740800000000000000
+      internalID: 5151816525178181670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
