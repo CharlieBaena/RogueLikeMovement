@@ -609,7 +609,7 @@ MonoBehaviour:
   proyectil: {fileID: 2637652438778286876, guid: da139c001a913334bbd8a4e229908553,
     type: 3}
   spawnPoint: {fileID: 392702867}
-  cooldown: 1
+  cooldown: 0.5
   bladeGO: {fileID: 1380636024}
   speedWithBlade: 8
   contenedoresBalas:

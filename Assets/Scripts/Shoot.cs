@@ -90,7 +90,7 @@ public class Shoot : MonoBehaviour
 
     IEnumerator waitCourutine()
     {
-        yield return new WaitForSeconds(cooldown/2);
+        yield return new WaitForSeconds(cooldown);
         pM.isShooting = false;
         fatherAnimator.speed = 1f;
     }
