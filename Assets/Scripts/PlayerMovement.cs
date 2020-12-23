@@ -122,7 +122,7 @@ public class PlayerMovement : MonoBehaviour
         Debug.DrawLine(transform.position, Camera.main.ScreenToWorldPoint(Input.mousePosition), Color.yellow,10f);
 
 
-        if (hit.collider != null)
+        if (hit.collider != null && !hit.collider.gameObject.CompareTag("Player"))
         {
             Vector2 distanciaImpacto = hit.point - (Vector2)transform.position;
             if (distanciaImpacto.magnitude >= dashDistance)
